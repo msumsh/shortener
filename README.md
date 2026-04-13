@@ -1,12 +1,12 @@
 # shortener
 ### URL-shortener REST API service
 
-# Features:
+### Features:
 - Short URL Creation
 - Custom Alias Support
 - Auto-Generated Aliases
 
-# Tecnhologies:
+### Tecnhologies:
 - Go
 - chi/v5
 - SQLite
